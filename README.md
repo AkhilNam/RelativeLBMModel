@@ -45,8 +45,8 @@ project-root/
 ## 🚀 Results Summary
 
 - **Best-performing model**: Linear Regression
-- **R² Score**: ~_Insert value here_  
-- **MAE**: ~_Insert value here_  
+- **R² Score**: ~ 0.93
+- **RMSE**: ~0.0496  
 
 ---
 
